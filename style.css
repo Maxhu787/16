@@ -205,12 +205,12 @@ body {
 }
 
 #header #number {
-  color: #ffa500;
+  color: #333;
   padding: 8px;
   text-align: center;
   height: 75px;
   width: 75px;
-  border: solid 8px orange;
+  border: solid 8px #ffa500;
   border-radius: 1000px;
 }
 
@@ -227,13 +227,13 @@ body {
 }
 
 #header #g4o2 img {
-  /* height: 210px; */
-  width: 400px;
-  border-radius: 1000px;
+  height: 280px;
+  /* width: 300px; */
+  border-radius: 60px;
   float: left;
   margin-right: 40px;
   margin-top: 30px;
-  border: 7px solid #ffc200;
+  border: 7px solid #fff;
   /* animation: logo-breath 5s ease-out infinite normal; */
 }
 
